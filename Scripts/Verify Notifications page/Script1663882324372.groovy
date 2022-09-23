@@ -35,11 +35,45 @@ WebUI.mouseOver(findTestObject('Page_Notifications/i_Ausloggen_icon-home'))
 
 WebUI.click(findTestObject('Page_Notifications/i_Home_fa fa-circle-o'))
 
+WebUI.verifyLinksAccessible(['https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=vacan%D1%81ies_and_publications'
+        , 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=applicants', 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=candidates'
+        , 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=professional_search', 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=companies'])
+
 WebUI.click(findTestObject('Object Repository/Page_Notifications/a_Vacancies and Publications'))
 
 css_color = WebUI.getCSSValue(findTestObject('Page_Notifications/a_Vacancies and Publications'), 'background-color')
 
-WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)')
+WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Page_Notifications/a_Applicants 6'))
+
+css_color = WebUI.getCSSValue(findTestObject('Page_Notifications/a_Applicants 6'), 'background-color')
+
+WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Page_Notifications/a_Profiles 1'))
+
+css_color = WebUI.getCSSValue(findTestObject('Page_Notifications/a_Profiles 1'), 'background-color')
+
+WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Page_Notifications/a_Processes'))
+
+css_color = WebUI.getCSSValue(findTestObject('Page_Notifications/a_Processes'), 'background-color')
+
+WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Page_Notifications/a_Companies'))
+
+css_color = WebUI.getCSSValue(findTestObject('Page_Notifications/a_Companies'), 'background-color')
+
+WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.mouseOver(findTestObject('Page_Notifications/button_Aktionen'))
+
+css_color = WebUI.getCSSValue(findTestObject('Page_Notifications/button_Aktionen'), 'background-color')
+
+WebUI.verifyEqual(css_color, 'rgba(215, 218, 224, 1)', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()
 
