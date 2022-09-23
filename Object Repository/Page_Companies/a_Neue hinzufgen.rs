@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Neue hinzufgen</name>
+   <tag></tag>
+   <elementGuidId>1013631c-a96e-408d-ba01-6463ebbb9db4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='filterForm']/div/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.uppercase</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1d3a5b5-a27a-44d7-9a08-1050f08ff223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary uppercase</value>
+      <webElementGuid>f1549127-aaaa-4967-8ee8-4a9318ec7aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/companies/create</value>
+      <webElementGuid>b23d64f2-3a13-44ae-8108-fce77733a5ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Neue hinzufügen </value>
+      <webElementGuid>a4ed7271-6cb4-4133-b52c-4c0a365a2e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filterForm&quot;)/div[@class=&quot;page-head-section&quot;]/div[@class=&quot;row d-flex align-center row-sm&quot;]/div[@class=&quot;col-xl-auto&quot;]/a[@class=&quot;btn btn-primary uppercase&quot;]</value>
+      <webElementGuid>0a6e72ee-0535-449c-bc79-63d65d890765</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='filterForm']/div/div/div[4]/a</value>
+      <webElementGuid>3ce24c56-c07d-4425-a831-20d195d08109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Neue hinzufügen')]</value>
+      <webElementGuid>4fb162ad-0d4d-4a50-92c2-dba4aa520041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::a[1]</value>
+      <webElementGuid>e074ef78-d36d-446e-a6eb-ba35c970703d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hint: Push “Enter” for searching by keywords'])[1]/following::a[2]</value>
+      <webElementGuid>e00e68ff-83b0-4b5c-9bdf-c164fc520b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktionen'])[1]/preceding::a[2]</value>
+      <webElementGuid>8451b1c2-c109-464d-8b48-72af55e14049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::a[2]</value>
+      <webElementGuid>b2743564-1db8-41e5-8a1d-f5d5524360bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neue hinzufügen']/parent::*</value>
+      <webElementGuid>2fe49bfa-de37-42e7-9817-2dca26c24182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/companies/create')]</value>
+      <webElementGuid>c55c1d43-45e2-4cc6-8a64-b00d164365f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>888d9e7e-6ef9-4a40-807a-75cf028ee743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/companies/create' and (text() = 'Neue hinzufügen ' or . = 'Neue hinzufügen ')]</value>
+      <webElementGuid>f1813f49-ecf1-4b62-83bb-ab630305ffcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

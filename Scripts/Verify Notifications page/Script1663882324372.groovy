@@ -35,9 +35,12 @@ WebUI.mouseOver(findTestObject('Page_Notifications/i_Ausloggen_icon-home'))
 
 WebUI.click(findTestObject('Page_Notifications/i_Home_fa fa-circle-o'))
 
+WebUI.verifyElementPresent(findTestObject('Page_Notifications/h1_Notifications'), 0)
+
 WebUI.verifyLinksAccessible(['https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=vacan%D1%81ies_and_publications'
         , 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=applicants', 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=candidates'
-        , 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=professional_search', 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=companies'])
+        , 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=professional_search', 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=companies'], 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Notifications/a_Vacancies and Publications'))
 
