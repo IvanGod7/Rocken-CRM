@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Applicants</name>
+   <tag></tag>
+   <elementGuidId>0dc19e47-217c-4373-8d47-0a5a32e5b2f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Publications'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>832a4d6e-bdec-4314-98bd-8eb34a7d08b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/applicants?CandidatesSearch%5Bconsultants%5D%5B%5D=75</value>
+      <webElementGuid>76d86304-c2c4-46da-add2-7337f55e1acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pjax</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1f0af1f3-f8f4-4aab-a1ab-0a0ce0d21612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Applicants </value>
+      <webElementGuid>014d2b3e-e822-4c6a-a0cf-30edeb6bf394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;application treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[2]/a[1]</value>
+      <webElementGuid>3426675d-4472-48e1-9645-cf799e3ab65e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publications'])[1]/following::a[1]</value>
+      <webElementGuid>a19393e2-5f24-47b0-bd45-5e10b83d1a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application-Management'])[1]/following::a[2]</value>
+      <webElementGuid>f493785a-de52-4a72-a157-30eb8e39fe2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications'])[1]/preceding::a[1]</value>
+      <webElementGuid>0a58c76f-b531-489d-adb3-c2d38fbb4b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/applicants?CandidatesSearch%5Bconsultants%5D%5B%5D=75')]</value>
+      <webElementGuid>f326810e-fa43-4313-a63b-39cb65bfabbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a</value>
+      <webElementGuid>b713c226-ed11-4df1-ad02-e8e3b05bbd21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/applicants?CandidatesSearch%5Bconsultants%5D%5B%5D=75' and (text() = '  Applicants ' or . = '  Applicants ')]</value>
+      <webElementGuid>d483cca3-ec89-4c87-8d8e-3973b99ec99d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

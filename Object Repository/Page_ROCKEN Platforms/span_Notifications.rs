@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e54d89d4-38fe-4d6f-8d32-dd11f93ff131</webElementGuid>
+      <webElementGuid>9477bbaf-e52b-40a9-bf08-cf9838579aec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notifications</value>
+      <webElementGuid>c73fb835-6adc-4fd6-a716-ede398e60ad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse sidebar_show&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]/span[1]</value>
+      <webElementGuid>75a51fc3-2a80-4852-9f48-1ec11da635a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9f11f0cf-8b62-461b-8d4f-a33b4587f645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notifications</value>
+      <webElementGuid>9b923ffc-a678-419d-914e-1025175b7e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]/span[1]</value>
+      <webElementGuid>45959693-8474-4abd-a144-6d7f2370fbd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e54d89d4-38fe-4d6f-8d32-dd11f93ff131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -69,8 +117,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
-      <webElementGuid>8d460eae-2cd0-432a-98ac-8350584c4448</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/following::span[2]</value>
+      <webElementGuid>17a24756-86d0-419f-aaa3-1063bb7dce5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ausloggen'])[1]/following::span[9]</value>
-      <webElementGuid>35c3705e-5c50-4ee9-9b69-5e99b56f8950</webElementGuid>
+      <webElementGuid>45d0de30-201b-43d3-b6a9-dcd0a862038b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[1]/preceding::span[1]</value>
-      <webElementGuid>d6a1dce6-d9b3-490d-9b36-a10e3f10020b</webElementGuid>
+      <webElementGuid>93092a13-919f-47ab-91b1-3faa8b8ee41e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[2]/preceding::span[3]</value>
-      <webElementGuid>070187ef-71b9-4ae8-aa21-d8c6eede4f66</webElementGuid>
+      <webElementGuid>ee61a547-25ea-4222-aac3-ce545456d59a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Notifications']/parent::*</value>
-      <webElementGuid>c8388e68-57c6-443b-845e-d13306dfc52d</webElementGuid>
+      <webElementGuid>0c6539b9-81a5-4609-b0c7-fb7da303e989</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li/a/span</value>
-      <webElementGuid>b17d57c4-1278-40cc-837c-4f1a8ac7f6d2</webElementGuid>
+      <webElementGuid>0c8b174f-3ccc-44b5-ae6e-dfcc1327cb86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +166,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Notifications' or . = 'Notifications')]</value>
-      <webElementGuid>eb6cae06-da6b-4923-b98d-99fd395a8373</webElementGuid>
+      <webElementGuid>73ee62b9-5d06-41b7-97da-dfcfd5c4e0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
+      <webElementGuid>8d460eae-2cd0-432a-98ac-8350584c4448</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

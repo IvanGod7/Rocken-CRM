@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Application-Management_fa fa-circle-o</name>
+   <tag></tag>
+   <elementGuidId>0bf33875-4dcc-4228-8e6c-d89df3fd5571</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.application.treeview > ul.treeview-menu > li > a > i.fa.fa-circle-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[3]/ul/li/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>83912527-6050-4d84-871b-b40b7f1b9874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>a261db00-4d50-4338-83a7-0686d0460d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;application treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>5613e08b-2778-4df3-9f7e-a4c4bfdb7acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2bcae0e0-4399-451b-8a40-225a576d7376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>a7b71b20-f185-4e49-b406-84718e712dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;application treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>e27414ea-ecdb-42f5-bd8b-213ca16f356b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>757c7b87-ea9e-486c-81e9-dea099b215d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>14244b43-8454-4f1c-b1e4-fa4ddd7e90ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;application treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>8d5f5587-5b1a-4fe4-8f35-ffc19a81b206</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a/i</value>
+      <webElementGuid>638b0d59-9917-4c71-b135-a8c23f3c9330</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

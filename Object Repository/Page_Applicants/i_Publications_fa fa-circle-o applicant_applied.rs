@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Publications_fa fa-circle-o applicant_applied</name>
+   <tag></tag>
+   <elementGuidId>0ed12f38-a3a3-4183-a6be-c92853196f75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-circle-o.applicant_applied</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[3]/ul/li[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>da02c43c-5ba7-49b8-bf55-6b3778a9eeb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o applicant_applied</value>
+      <webElementGuid>31dd9a28-caf2-4323-853c-1f0690de0903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;application treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[2]/a[1]/i[@class=&quot;fa fa-circle-o applicant_applied&quot;]</value>
+      <webElementGuid>3f6f2ab9-1b48-4525-8cc6-3cdd74aa6d4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a/i</value>
+      <webElementGuid>7e0f0e3f-bb9e-4b75-bd12-daa1ae048040</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

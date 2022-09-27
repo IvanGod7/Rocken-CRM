@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Applications</name>
+   <tag></tag>
+   <elementGuidId>3343eab9-8d2d-479b-a253-42dc6e0d0535</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicants'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad9382c1-2d76-46eb-8513-9decf9d872e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/applications/index</value>
+      <webElementGuid>e558e6ae-a6c0-48a9-a8bf-0c6d913f1428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pjax</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>cd897cd9-8260-43f0-b460-fc86ffbb2335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Applications </value>
+      <webElementGuid>a05a757c-bb2a-4e3e-ada8-c2834ca693f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;application treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>a50e7b03-eeb4-4b75-a41a-69a7f5b86cb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicants'])[1]/following::a[1]</value>
+      <webElementGuid>f1699862-8038-4218-9cde-e9da8b5fa56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publications'])[1]/following::a[2]</value>
+      <webElementGuid>e7d52cc3-160f-47c0-afce-eb4f79025727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unanswered pool'])[1]/preceding::a[1]</value>
+      <webElementGuid>ca2dcf27-195e-45d4-9c44-22aaa1fba893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/applications/index')]</value>
+      <webElementGuid>67db17b6-9330-4799-9976-85977f4bc5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[3]/a</value>
+      <webElementGuid>3545e932-9e21-4274-8ff4-5305dd37e549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/applications/index' and (text() = '  Applications ' or . = '  Applications ')]</value>
+      <webElementGuid>c2b0ed09-8331-4069-928d-8fd03ca6b963</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
