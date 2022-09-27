@@ -1,9 +1,0 @@
-Checkpoints  Libs		 Rocken-CRM.git.prj  bin
-Data\ Files  Object\ Repository  Scripts	     build.gradle
-Drivers      Plugins		 Test\ Cases	     console.properties
-Include      Profiles		 Test\ Listeners     file.txt
-Keywords     Reports		 Test\ Suites	     settings
-
-change1
-
-change2
