@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://rocken-sandbox.cheitgroup.com/site/login')
-
-WebUI.setText(findTestObject('Page_Sign In/input_Remember Me_LoginFormemail'), 'ivan.godonuk@cheitgroup.com')
-
-WebUI.setEncryptedText(findTestObject('Page_Sign In/input_Remember Me_LoginFormpassword'), 'KmAzg1R57vKcWS3ykeqMApVaT46dEUf5')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in'))
+WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 

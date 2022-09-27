@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case (2)</name>
+   <name>Verify admin can login</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>be1a8b6e-8d6c-40be-8330-90d84d7ba865</testCaseGuid>
+   <testCaseGuid>a55cdf11-14c7-4d5b-8e05-efe2bad78d8d</testCaseGuid>
 </TestCaseEntity>
