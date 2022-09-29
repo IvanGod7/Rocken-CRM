@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>li.application.activeclass.treeview > a</value>
+         <value>li.application.treeview > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>123b4ae9-9fce-4eed-9f10-2dd6e5985e2e</webElementGuid>
+      <webElementGuid>c9fd22c7-303f-4d02-9dca-16a884d6a09e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,74 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>bcaf32ad-699b-45f3-98d9-c21ba262b71e</webElementGuid>
+      <webElementGuid>2e1664b5-f3ce-4549-9fbe-5790ed83093c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Application-Management </value>
+      <webElementGuid>e518dda2-749e-4248-a72b-1e1a2db26295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;application treeview&quot;]/a[1]</value>
+      <webElementGuid>cc158213-4662-4e6d-ac7a-bd36d1b2acd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8586f175-f556-4363-b057-6712f95e501b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>d685a4ac-695f-43ae-86b2-068a68f06fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Application-Management </value>
+      <webElementGuid>fbc90dab-4017-4ab6-aa96-a07ea08bc29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;application treeview&quot;]/a[1]</value>
+      <webElementGuid>0ac5779e-b36b-4251-adf9-75e58e0f5799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>123b4ae9-9fce-4eed-9f10-2dd6e5985e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>bcaf32ad-699b-45f3-98d9-c21ba262b71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Global Tracking Settings'])[1]/following::a[1]</value>
-      <webElementGuid>d7782660-8117-408e-9e7d-0b9881fd1814</webElementGuid>
+      <webElementGuid>5886396d-f5e1-4141-b007-8c9f85aae94c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vacancies'])[1]/following::a[2]</value>
-      <webElementGuid>bc5f8523-fb28-4923-879c-0ba9cfcf3f8a</webElementGuid>
+      <webElementGuid>35845815-c7fc-468f-8dba-bf67b8c979d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Publications'])[1]/preceding::a[1]</value>
-      <webElementGuid>06e583f6-9d40-4fe3-ab25-5d1b02d41f25</webElementGuid>
+      <webElementGuid>50047131-74cf-4684-a0f5-f8b611fa8112</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +142,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[2]</value>
-      <webElementGuid>20b7d09f-63fd-4d9a-873f-17249613534a</webElementGuid>
+      <webElementGuid>6a155165-03f3-45c6-a9f3-696e4e6fe1a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>fe2b59fb-54aa-4ee3-b0c3-c95f1ab6a99f</webElementGuid>
+      <webElementGuid>a155a269-5f76-464d-a60d-2ed14be46e9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0);' and (text() = '  Application-Management ' or . = '  Application-Management ')]</value>
-      <webElementGuid>43c41904-7f2f-4ba9-aacf-d7d3deb6709f</webElementGuid>
+      <webElementGuid>cace0013-b7e5-422b-9248-94497c693b83</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,11 +21,11 @@ WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHan
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_Companies/i_Notifications_icon-crm-icon-1'))
+WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Companies   Companies  Executive Staff  Vacancies  Global Tracking Settings'))
 
-WebUI.click(findTestObject('Page_Notifications/i_Executive Staff_fa fa-circle-o'))
+WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Vacancies'))
 
-WebUI.click(findTestObject('Page_Companies/a_Neue hinzufgen'))
+WebUI.click(findTestObject('Page_Vacancies/a_Neue hinzufgen'))
 
 WebUI.click(findTestObject('Page_Create Vacancies/a_CANCEL'))
 

@@ -21,9 +21,9 @@ WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHan
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_Companies/i_Notifications_icon-crm-icon-1'))
+WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Companies   Companies  Executive Staff  Vacancies  Global Tracking Settings'))
 
-WebUI.click(findTestObject('Page_Executive Staff/i_Companies_fa fa-circle-o'))
+WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Executive Staff'))
 
 WebUI.click(findTestObject('Page_Executive Staff/a_Neue hinzufgen'))
 

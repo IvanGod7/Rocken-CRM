@@ -21,16 +21,13 @@ WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHan
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Companies   Companies  Executive Staff  Vacancies  Global Tracking Settings'))
+WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Application-Management   Publications   Applicants   Applications   Unanswered pool  Rejections'))
 
-WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Global Tracking Settings'))
+WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Applications'))
 
-WebUI.click(findTestObject('Page_Global Company Tracking Settings/a_NEUE HINZUFGEN'))
+pageURL = WebUI.getUrl()
 
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/h1_Create Company Tracking Settings'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/button_Speichern'), 0)
+WebUI.verifyEqual(pageURL, 'https://rocken-sandbox.cheitgroup.com/applications/index')
 
 WebUI.closeBrowser()
 

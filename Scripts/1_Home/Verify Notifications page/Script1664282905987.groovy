@@ -21,9 +21,9 @@ WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHan
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_Notifications/i_Ausloggen_icon-home'))
+WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Home   Notifications'))
 
-WebUI.click(findTestObject('Page_Notifications/i_Home_fa fa-circle-o'))
+WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Notifications'))
 
 WebUI.verifyElementPresent(findTestObject('Page_Notifications/h1_Notifications'), 0)
 

@@ -21,16 +21,22 @@ WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHan
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Companies   Companies  Executive Staff  Vacancies  Global Tracking Settings'))
+WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Application-Management   Publications   Applicants   Applications   Unanswered pool  Rejections'))
 
-WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Global Tracking Settings'))
+WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Publications'))
 
-WebUI.click(findTestObject('Page_Global Company Tracking Settings/a_NEUE HINZUFGEN'))
+WebUI.click(findTestObject('Page_die Publikationen/a_Neue hinzufgen'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/h1_Create Company Tracking Settings'), 
+WebUI.click(findTestObject('Page_Create Publication/a_CANCEL'))
+
+WebUI.navigateToUrl('https://rocken-sandbox.cheitgroup.com/publications/view/3731')
+
+WebUI.verifyElementPresent(findTestObject('Page_Junior QA Engineer (mwd) (P3731)/h1_Junior QA Engineer (mwd) (P3731)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/button_Speichern'), 0)
+WebUI.click(findTestObject('Page_Junior QA Engineer (mwd) (P3731)/a_Go to ROCKEN.jobs'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Junior QA Engineer (mwd) - ROCKEN Jobs/div_Junior QA Engineer (mwd)'), 0)
 
 WebUI.closeBrowser()
 

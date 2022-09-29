@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>43dc6795-e5bf-4cd6-8305-dd035dd374e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>d29e3ce0-26b7-428d-9146-383b25c9f236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://rocken-sandbox.cheitgroup.com/candidates/index?CandidatesSearch%5Bcandidate_status%5D%5B%5D=5</value>
+      <webElementGuid>bff872ab-6a9a-467e-87a1-930548c13505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CANCEL</value>
+      <webElementGuid>f04ec189-01c9-4681-8ab7-86b69afbf3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;candidates-form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;form-group&quot;]/a[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>96c204f5-4b18-4b0c-8e22-7e57493f741f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
       <webElementGuid>64d90df1-498e-461a-8430-7887d77f6b15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +73,7 @@
       <webElementGuid>12a98bdd-be44-4bcf-b654-91059a81a2f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>00062e7f-f41e-43d1-b07d-4660087acbf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -102,7 +142,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='candidates-form']/div[2]/div/div/a</value>
-      <webElementGuid>6ca29887-904e-4b8c-93b0-6b0cd7a3990f</webElementGuid>
+      <webElementGuid>d9307bd2-248a-4263-b958-6767b6a7d4ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +150,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'CANCEL')]</value>
-      <webElementGuid>0c185f52-dcbb-4d6f-a15e-58239e1a5700</webElementGuid>
+      <webElementGuid>3da1e06c-0498-4a7d-889b-9445be3388bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SPEICHERN'])[1]/following::a[1]</value>
-      <webElementGuid>c5ae059f-3303-43db-acc5-864c72fd2a9d</webElementGuid>
+      <webElementGuid>c712c0a9-3501-487b-a94d-ae75ef90776f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail'])[1]/following::a[1]</value>
-      <webElementGuid>0afeae38-29cb-402d-8e32-0b165dbae39b</webElementGuid>
+      <webElementGuid>93608e71-f9ec-4e0c-a6e3-a34104220804</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Method'])[1]/preceding::a[2]</value>
-      <webElementGuid>1cacd6a0-cba4-4e90-9360-bedde5aeabf7</webElementGuid>
+      <webElementGuid>dd30b6e2-1fc6-40a6-bd1b-67abc9767065</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +182,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='CANCEL']/parent::*</value>
-      <webElementGuid>6e323881-b7be-4d45-8736-0621ce550936</webElementGuid>
+      <webElementGuid>58182aea-deb3-4944-b608-38277505813a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://rocken-sandbox.cheitgroup.com/candidates/index?CandidatesSearch%5Bcandidate_status%5D%5B%5D=5')]</value>
+      <webElementGuid>ff710952-499c-408d-85cb-7b910a83f14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>a52b98c3-04db-4a4e-a240-87eb8200880d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://rocken-sandbox.cheitgroup.com/candidates/index?CandidatesSearch%5Bcandidate_status%5D%5B%5D=5' and (text() = 'CANCEL' or . = 'CANCEL')]</value>
+      <webElementGuid>2a1e4fdc-3503-47b9-af20-e5698ca6cdc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,14 +215,6 @@
       <type>Main</type>
       <value>//a[contains(@href, 'https://rocken-sandbox.cheitgroup.com/applicants?CandidatesSearch%5Bconsultants%5D%5B%5D=75')]</value>
       <webElementGuid>1c7011f8-72f0-4258-9b65-c0296bb1fd3a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/div/a</value>
-      <webElementGuid>fab9f5f5-e8f0-42b8-b07d-8e2adcb1e840</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

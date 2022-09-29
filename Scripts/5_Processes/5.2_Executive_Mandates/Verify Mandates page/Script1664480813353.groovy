@@ -21,16 +21,35 @@ WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHan
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Companies   Companies  Executive Staff  Vacancies  Global Tracking Settings'))
+WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Processes   Processes  Executive Mandates'))
 
-WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Global Tracking Settings'))
+WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Executive Mandates'))
 
-WebUI.click(findTestObject('Page_Global Company Tracking Settings/a_NEUE HINZUFGEN'))
+WebUI.click(findTestObject('Page_Mandates/a_CREATE MANDATE'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/h1_Create Company Tracking Settings'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Page_Create Mandates/h1_Create Mandates'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/button_Speichern'), 0)
+WebUI.back(FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Page_Mandates/a_Acquired_btn btn-icon btn-default'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Update Mandate Mandate  26/h1_Update Mandate Mandate  26'), 0)
+
+WebUI.click(findTestObject('Page_Update Mandate Mandate  26/a_Mandate  26'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Mandate 26/h1_Mandate 26'), 0)
+
+WebUI.click(findTestObject('Page_Mandate 26/i_-_icon-plus'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('Page_Mandate 26/strong_Add mandate company'), 0)
+
+WebUI.click(findTestObject('Page_Mandate 26/button_Abbrechen'))
+
+WebUI.click(findTestObject('Page_Mandate 26/i_Longlist_icon-plus'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Mandate 26/h5_Add to Mandate'), 0)
+
+WebUI.click(findTestObject('Page_ROCKEN Platforms/span_'))
 
 WebUI.closeBrowser()
 

@@ -21,16 +21,26 @@ WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHan
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Companies   Companies  Executive Staff  Vacancies  Global Tracking Settings'))
+WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_ROCKEN Talents   Profiles'))
 
-WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Global Tracking Settings'))
+WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Profiles'))
 
-WebUI.click(findTestObject('Page_Global Company Tracking Settings/a_NEUE HINZUFGEN'))
+WebUI.click(findTestObject('Page_Kandidaten/a_Neue hinzufgen'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/h1_Create Company Tracking Settings'), 
+WebUI.click(findTestObject('Page_Create Candidates/a_CANCEL'))
+
+WebUI.navigateToUrl('https://rocken-sandbox.cheitgroup.com/candidates/view/3697')
+
+WebUI.verifyElementPresent(findTestObject('Page_Wade Weber/h1_Wade Weber'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Page_Wade Weber/td_Wade'), 0)
+
+WebUI.verifyElementVisible(findTestObject('Page_Wade Weber/td_Weber'))
+
+WebUI.click(findTestObject('Page_Wade Weber/a_Profil anzeigen'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Profile Wade Weber/h4_Herr                                                                     Wade Weber'), 
     0)
-
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/button_Speichern'), 0)
 
 WebUI.closeBrowser()
 

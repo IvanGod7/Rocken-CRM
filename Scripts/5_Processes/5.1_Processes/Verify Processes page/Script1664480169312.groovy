@@ -21,16 +21,11 @@ WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHan
 
 WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Companies   Companies  Executive Staff  Vacancies  Global Tracking Settings'))
+WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/li_Processes   Processes  Executive Mandates'))
 
-WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Global Tracking Settings'))
+WebUI.click(findTestObject('Page_ROCKEN Platforms/a_Processes'))
 
-WebUI.click(findTestObject('Page_Global Company Tracking Settings/a_NEUE HINZUFGEN'))
-
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/h1_Create Company Tracking Settings'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Page_Create Company Tracking Settings/button_Speichern'), 0)
+WebUI.verifyElementPresent(findTestObject('Page_Professional Search/h1_Professional Search'), 0)
 
 WebUI.closeBrowser()
 
