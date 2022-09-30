@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_NEUE HINZUFGEN</name>
+   <tag></tag>
+   <elementGuidId>3f416360-ec48-4105-92f3-82fca6560520</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'NEUE HINZUFüGEN')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2501e166-26f6-4779-8312-d5b821c93a83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>cc7ffc25-6fca-4731-b2a8-c3a03919f943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/categories/create</value>
+      <webElementGuid>82bc4b68-b48b-435d-bcfb-e931b22ffeed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-customajax</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d022fc92-ad9a-41e6-897e-ffc42db4178f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NEUE HINZUFüGEN </value>
+      <webElementGuid>f540f2f5-1dd6-4b50-a842-b762339fd592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper section_bottom_fixed&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;categories-index index&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-header with-border&quot;]/h3[@class=&quot;box-title card-view categories-head&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>f99fd8eb-5e6a-45ae-91a8-56b15eb7196a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f2b6494-8db4-4b60-b7c3-7fb19278dde5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>a9a7133f-e727-41a1-a61c-8901b46ff3dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/categories/create</value>
+      <webElementGuid>59575d04-b7b5-4728-b219-a0e79cf18c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-customajax</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7a7d32c7-22bf-40fe-bb54-5bff278784bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NEUE HINZUFüGEN </value>
+      <webElementGuid>ef8cf2de-6c57-4e68-8303-3655fe471505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper section_bottom_fixed&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;categories-index index&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-header with-border&quot;]/h3[@class=&quot;box-title card-view categories-head&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>51618fd1-dd02-4262-bbd7-286c8f1265ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'NEUE HINZUFüGEN')]</value>
+      <webElementGuid>95987735-8c91-4720-b60c-b56355bf8513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantone'])[2]/following::a[1]</value>
+      <webElementGuid>870aac66-33db-4c9a-a83d-a9204bb80e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Einkauf und Supply Chain Management'])[1]/preceding::a[1]</value>
+      <webElementGuid>a874e5c6-c1bd-44fb-8181-d5480655d527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add category'])[1]/preceding::a[2]</value>
+      <webElementGuid>c8694db2-1665-4d3d-9780-299c6423df20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NEUE HINZUFüGEN']/parent::*</value>
+      <webElementGuid>77fee891-bff8-4ab1-bb88-1472ebd8ea1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/categories/create')]</value>
+      <webElementGuid>c409256c-654b-4340-bc52-b6e4a5320321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a</value>
+      <webElementGuid>abf972a7-c3c4-44a4-ae63-f214d3f57e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/categories/create' and (text() = 'NEUE HINZUFüGEN ' or . = 'NEUE HINZUFüGEN ')]</value>
+      <webElementGuid>d673ce3a-0766-4dbb-ad8e-60718afebd62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

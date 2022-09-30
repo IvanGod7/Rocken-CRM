@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Branchen</name>
+   <tag></tag>
+   <elementGuidId>bf1525c3-1694-4185-a176-c82d9e115f33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sprachniveau'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e356f96d-7dcf-43d1-ba7c-4a43ccbbce6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/industries/index</value>
+      <webElementGuid>73ba642a-4dfc-4a8f-87eb-4ee4b577c5b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Branchen</value>
+      <webElementGuid>7795dd84-26b8-4ff6-951f-6cf18a0ba40c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu sidebar-menu-bottom tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[5]/a[1]</value>
+      <webElementGuid>c36a6ad1-7333-4273-b6b7-052eae8e9432</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sprachniveau'])[1]/following::a[1]</value>
+      <webElementGuid>53392536-c994-46ce-8219-3a1898ff501a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sprachen'])[1]/following::a[2]</value>
+      <webElementGuid>518f8540-1957-481c-a8af-72fc976b0708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Währungen'])[1]/preceding::a[1]</value>
+      <webElementGuid>9cf096d6-5661-4fc6-bd33-b482c5b2f62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/industries/index')]</value>
+      <webElementGuid>e94fca5d-0c23-426b-b8de-8a6aa963f189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[5]/a</value>
+      <webElementGuid>111a30cd-725d-4afd-a1e8-b0715436401b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/industries/index' and (text() = '  Branchen' or . = '  Branchen')]</value>
+      <webElementGuid>8bfb9ef2-3cad-4691-b9f5-2750c55980ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Anstellungsart</name>
+   <tag></tag>
+   <elementGuidId>33df361e-5c08-4d3d-b700-21c5ac457bfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c3becd81-efa5-4a19-bfa6-04fb27fa3457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/employments/index</value>
+      <webElementGuid>2bbac60c-52b2-44aa-ac08-ca289d095e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Anstellungsart</value>
+      <webElementGuid>4441eef3-bacf-45ca-98d9-036de340747c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu sidebar-menu-bottom tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[9]/a[1]</value>
+      <webElementGuid>8087d85d-c00e-4799-98c0-01652f0f135e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::a[1]</value>
+      <webElementGuid>20d53fba-ca72-4836-8843-1a79a469dd10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Positionen'])[1]/following::a[2]</value>
+      <webElementGuid>6531c650-5612-40e0-ba25-8006c4e38c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantone'])[1]/preceding::a[1]</value>
+      <webElementGuid>a420dcea-8659-46a0-aead-a9b92dda6bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/employments/index')]</value>
+      <webElementGuid>329546c3-1e44-4c2c-8c62-bc7ffa73fcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a</value>
+      <webElementGuid>9b1bd654-ee8f-43cb-a93a-c8e876ab23c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/employments/index' and (text() = '  Anstellungsart' or . = '  Anstellungsart')]</value>
+      <webElementGuid>6f54e567-4be0-495a-8126-9bc88a67d2bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

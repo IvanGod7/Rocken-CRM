@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sprachen</name>
+   <tag></tag>
+   <elementGuidId>0d3e19b3-865f-4054-99e8-f6d1fe053ca4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Abschluss'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>265160cf-7e20-49a6-90cb-33372136d517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/languages/index</value>
+      <webElementGuid>23aa3c5c-2478-4747-96f0-6f917bb3bd68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Sprachen</value>
+      <webElementGuid>13baed6e-3386-46c4-8d9c-b9cf32f4575c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu sidebar-menu-bottom tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>81a2c6b8-6817-4da1-8f35-858b44bde7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b9dafaf-fbab-43c0-a925-d66e80664f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/languages/index</value>
+      <webElementGuid>782df895-5d05-4dda-8fa1-80d93410df7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Sprachen</value>
+      <webElementGuid>51714c94-7b2a-41e3-83da-846a601d2939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu sidebar-menu-bottom tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>09eaa755-f9b2-449b-b757-db964cdc972d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>18fe749c-3907-4129-8c56-c6993b7e0452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/languages/index</value>
+      <webElementGuid>28313f28-ace5-4143-b6ea-50b6730f7ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Sprachen</value>
+      <webElementGuid>fe919b3b-452a-4a14-bf0e-b4a1f7390847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu sidebar-menu-bottom tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>2a063f88-82f6-4f4f-a583-8cb36f4aa732</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abschluss'])[1]/following::a[1]</value>
+      <webElementGuid>048bf9eb-42bd-49c1-ba9a-ee471cd3d1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/following::a[2]</value>
+      <webElementGuid>4a538506-692d-4f4c-8d01-747e1a4da38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sprachniveau'])[1]/preceding::a[1]</value>
+      <webElementGuid>ef618340-71e6-4675-8578-531d5e37a2ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/languages/index')]</value>
+      <webElementGuid>a8ef2583-2b12-428f-9a45-8aeb371a2ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]/ul/li[3]/a</value>
+      <webElementGuid>794347cd-e251-46f4-b50d-07aebcb1cfce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/languages/index' and (text() = '  Sprachen' or . = '  Sprachen')]</value>
+      <webElementGuid>cdcdd6b8-f635-4744-9ba7-c60dcc2d291b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

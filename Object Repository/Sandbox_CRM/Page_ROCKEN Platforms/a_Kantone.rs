@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kantone</name>
+   <tag></tag>
+   <elementGuidId>8f3cfa24-904f-4153-b707-24ef4cce8a47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Anstellungsart'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9c7a32d7-42ab-42d9-aa64-0be38e1d6d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/regions/index</value>
+      <webElementGuid>699d7275-cab2-45eb-9c41-ecf3e439db9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Kantone</value>
+      <webElementGuid>3e4580d6-f610-46fc-9034-01a337bf99c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu sidebar-menu-bottom tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[10]/a[1]</value>
+      <webElementGuid>85e1e73d-30d0-40a1-a638-5fb0ec2c299a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anstellungsart'])[1]/following::a[1]</value>
+      <webElementGuid>fff24727-8637-4db0-a943-306101000bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::a[2]</value>
+      <webElementGuid>738961f0-612a-4498-92d7-f655cb1874b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Länder'])[1]/preceding::a[1]</value>
+      <webElementGuid>e161e244-8808-41dc-9d30-789def8b0dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/regions/index')]</value>
+      <webElementGuid>e9c8a664-f934-45ee-b6dd-ab469bc7baba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a</value>
+      <webElementGuid>b7410880-7de5-45e4-baae-82d4b9664db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/regions/index' and (text() = '  Kantone' or . = '  Kantone')]</value>
+      <webElementGuid>8f53398d-3db0-4fc7-8076-a236ac5bbb50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

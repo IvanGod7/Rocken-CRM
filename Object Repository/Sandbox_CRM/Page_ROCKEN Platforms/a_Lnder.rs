@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lnder</name>
+   <tag></tag>
+   <elementGuidId>f0a64cf4-ba13-4198-9b16-33ba1d1fd94f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantone'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>426c6648-c7ff-4fe5-8b19-12076e55b873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/countries/index</value>
+      <webElementGuid>788e3ce1-62a2-4904-91b0-5d0f90d21437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Länder</value>
+      <webElementGuid>5a4423c1-ce8f-49b6-9ebd-8e8d27ab6b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu sidebar-menu-bottom tree&quot;]/li[@class=&quot;treeview&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[11]/a[1]</value>
+      <webElementGuid>2250239d-bc35-48c1-affd-c64a8af7659b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantone'])[1]/following::a[1]</value>
+      <webElementGuid>0ea6ad92-7b6c-4d4c-b147-0c71356c5314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anstellungsart'])[1]/following::a[2]</value>
+      <webElementGuid>17e0da13-21ef-4178-aad5-ba734a94e6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reisebereitschaft'])[1]/preceding::a[1]</value>
+      <webElementGuid>93891b07-fd43-40f5-bf9f-208889e51643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/countries/index')]</value>
+      <webElementGuid>44c164b5-8808-4111-b516-b78d235acb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a</value>
+      <webElementGuid>0711c8b6-c74b-4766-9d1c-beaee85bf8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/countries/index' and (text() = '  Länder' or . = '  Länder')]</value>
+      <webElementGuid>16e47d57-93a9-4c71-a886-af97036d2249</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

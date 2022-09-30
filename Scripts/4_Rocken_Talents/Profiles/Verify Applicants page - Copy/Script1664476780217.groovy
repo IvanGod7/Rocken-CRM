@@ -17,29 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login/Verify admin can login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Sandbox_CRM/Login/Verify admin can login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/div_Ausloggen_mobile__menu'), FailureHandling.OPTIONAL)
 
-WebUI.mouseOver(findTestObject('Page_ROCKEN Platforms/a_Application-Management'))
+WebUI.mouseOver(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/a_Application-Management'))
 
-WebUI.click(findTestObject('Page_Applicants/a_Applicants'))
+WebUI.click(findTestObject('Sandbox_CRM/Page_Applicants/a_Applicants'))
 
-WebUI.click(findTestObject('Page_Applicants/a_Neue hinzufgen'))
+WebUI.click(findTestObject('Sandbox_CRM/Page_Applicants/a_Neue hinzufgen'))
 
-WebUI.click(findTestObject('Page_Create Candidates/a_CANCEL'))
+WebUI.click(findTestObject('Sandbox_CRM/Page_Create Candidates/a_CANCEL'))
 
 WebUI.navigateToUrl('https://rocken-sandbox.cheitgroup.com/candidates/view/4112')
 
-WebUI.verifyElementPresent(findTestObject('Page_Nero Cruz/li_Nero Cruz'), 0)
+WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Nero Cruz/li_Nero Cruz'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Nero Cruz/td_Nero'), 0)
+WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Nero Cruz/td_Nero'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Page_Nero Cruz/td_Cruz'))
+WebUI.verifyElementVisible(findTestObject('Sandbox_CRM/Page_Nero Cruz/td_Cruz'))
 
-WebUI.click(findTestObject('Page_Nero Cruz/a_Profil anzeigen'))
+WebUI.click(findTestObject('Sandbox_CRM/Page_Nero Cruz/a_Profil anzeigen'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Profile Nero Cruz/h4_Herr                                                                     Nero Cruz'), 
+WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Profile Nero Cruz/h4_Herr                                                                     Nero Cruz'), 
     0)
 
 WebUI.closeBrowser()

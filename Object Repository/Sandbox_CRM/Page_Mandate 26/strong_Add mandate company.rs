@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Add mandate company</name>
+   <tag></tag>
+   <elementGuidId>fd002b58-59fe-4ccd-9e49-df8ddc80342e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h5[@id='exampleModalLabel']/strong)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-11 > #exampleModalLabel > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>6c84f6aa-51fe-4f08-825c-7ce2691a439b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Add mandate company                            </value>
+      <webElementGuid>980c835b-2294-4f91-8e06-ac8c23473483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mandateCompanyModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-11&quot;]/h5[@id=&quot;exampleModalLabel&quot;]/strong[1]</value>
+      <webElementGuid>74459eae-205a-4326-aa78-217b6f7a849b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>d55825cc-2ba5-4548-8582-53594e620872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Add mandate company                            </value>
+      <webElementGuid>9fa4b7f4-31e0-4b69-97a7-1b5ae4cfe2e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mandateCompanyModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-11&quot;]/h5[@id=&quot;exampleModalLabel&quot;]/strong[1]</value>
+      <webElementGuid>8aca5ff2-6776-4ce8-bb97-6e4dfcab37ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>8024ee11-05ad-4899-80f0-f1d547e1b6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Add mandate company                            </value>
+      <webElementGuid>5da1d10f-5d0f-4a64-892a-0494e39c46dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mandateCompanyModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-11&quot;]/h5[@id=&quot;exampleModalLabel&quot;]/strong[1]</value>
+      <webElementGuid>ba4f60b9-27fc-4cd0-a2ef-3e26f0cdb667</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//h5[@id='exampleModalLabel']/strong)[3]</value>
+      <webElementGuid>d0026bf8-d86e-45eb-a963-2d4a602d744e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update status'])[2]/following::strong[1]</value>
+      <webElementGuid>8dbfe1b8-91d1-45da-902e-90a51f7ab95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update status'])[1]/following::strong[2]</value>
+      <webElementGuid>19def7d4-510e-451d-a4f3-2c89da0f97aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[4]/preceding::strong[1]</value>
+      <webElementGuid>a4d1af8d-d3bd-4b53-a9ba-9e379ade0437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abbrechen'])[1]/preceding::strong[1]</value>
+      <webElementGuid>380d09b3-bdfa-45a3-ae8f-9507f5c4274c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add mandate company']/parent::*</value>
+      <webElementGuid>0331fec5-18d2-4a06-aa24-0de7544ca623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/h5/strong</value>
+      <webElementGuid>d1eb63a4-b0f7-4ca8-9f3d-35d7d974f306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '
+                                Add mandate company                            ' or . = '
+                                Add mandate company                            ')]</value>
+      <webElementGuid>d6b4d52d-99b7-4a5e-8dc5-375e94aea922</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

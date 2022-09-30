@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Schlsselwrter</name>
+   <tag></tag>
+   <elementGuidId>f175a9a0-1d93-4f9b-9efa-e97c473eba03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f64e88e1-c14a-4cda-8982-5b5f843734aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>78bd0406-6076-40ca-b42a-b123745724f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schlüsselwörter</value>
+      <webElementGuid>114bee47-71a3-4a82-b943-6bf057e8e8de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/header[@class=&quot;main-header fixed&quot;]/nav[@class=&quot;navbar navbar-static-top background_red&quot;]/ul[@class=&quot;breadcrumb&quot;]/li[@class=&quot;active&quot;]</value>
+      <webElementGuid>9b3b08c4-55df-4466-a1f9-24381cd2259e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::li[1]</value>
+      <webElementGuid>7f42e0df-ad44-49d8-82a1-5456a5b33af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sandbox'])[1]/preceding::li[1]</value>
+      <webElementGuid>ec7acde7-6d43-4dd6-87e2-4ea1c530ba7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ivan Godonuk'])[1]/preceding::li[1]</value>
+      <webElementGuid>bd2259b6-c476-4ff4-b8f0-27be365af730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>9bae46a1-0147-4a51-9be7-d9b2edb2c918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Schlüsselwörter' or . = 'Schlüsselwörter')]</value>
+      <webElementGuid>cafcc6b9-6f8f-402b-b9b3-1e90145394cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
