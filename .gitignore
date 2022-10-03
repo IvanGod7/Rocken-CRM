@@ -15,3 +15,5 @@ build
 
 .project
 
+# ignore all directories with the name Prod
+Prod*
