@@ -25,7 +25,7 @@ WebUI.mouseOver(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/li_Settings'))
 
 WebUI.click(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/a_Anstellungsart'))
 
-WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Skills/h3_Add new group'), 0)
+WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Anstellungsart/h3_Neu Anstellungsart'), 0)
 
 WebUI.closeBrowser()
 
