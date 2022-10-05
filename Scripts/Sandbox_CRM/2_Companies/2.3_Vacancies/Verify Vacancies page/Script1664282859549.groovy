@@ -36,8 +36,9 @@ WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Vacancy from Geneva 
 
 WebUI.click(findTestObject('Sandbox_CRM/Page_Vacancy from Geneva (mwd) (V3794)/a_Preview Vacancy'))
 
-WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Vacancy from Geneva (mwd) (V3794)/h1_Vacancy from Geneva (mwd) (V3794)'), 
-    0)
+WebUI.switchToWindowIndex(1)
+
+WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Vacancy from Geneva (mwd)/h1_Vacancy from Geneva (mwd)'), 0)
 
 WebUI.closeBrowser()
 

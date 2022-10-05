@@ -23,11 +23,11 @@ WebUI.click(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/div_Ausloggen_mobi
 
 WebUI.mouseOver(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/li_Application-Management   Publications   Applicants   Applications   Unanswered pool  Rejections'))
 
-WebUI.click(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/a_Applications'))
+WebUI.click(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/a_Unanswered pool'))
 
 pageURL = WebUI.getUrl()
 
-WebUI.verifyEqual(pageURL, 'https://rocken-sandbox.cheitgroup.com/applications/index')
+WebUI.verifyEqual(pageURL, 'https://rocken-sandbox.cheitgroup.com/candidates/unanswered?CandidatesSearch%5Bconsultants%5D%5B%5D=75')
 
 WebUI.closeBrowser()
 

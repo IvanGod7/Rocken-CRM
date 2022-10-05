@@ -36,7 +36,10 @@ WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Junior QA Engineer (
 
 WebUI.click(findTestObject('Sandbox_CRM/Page_Junior QA Engineer (mwd) (P3731)/a_Go to ROCKEN.jobs'))
 
-WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Junior QA Engineer (mwd) - ROCKEN Jobs/div_Junior QA Engineer (mwd)'), 0)
+WebUI.switchToWindowIndex(1)
+
+WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Junior QA Engineer (mwd) - ROCKEN Jobs/h1_Junior QA Engineer (mwd)'), 
+    0)
 
 WebUI.closeBrowser()
 
