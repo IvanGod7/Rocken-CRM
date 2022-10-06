@@ -27,46 +27,44 @@ WebUI.click(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/a_Notifications'))
 
 WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_Notifications/h1_Notifications'), 0)
 
-WebUI.verifyLinksAccessible(['https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=vacan%D1%81ies_and_publications'
+WebUI.verifyLinksAccessible(['https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=vacanhttps://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=vacan%D1%81ies_and_publications'
         , 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=applicants', 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=candidates'
         , 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=professional_search', 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=companies'], 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Sandbox_CRM/Page_Notifications/a_Vacancies and Publications'))
 
-css_color = WebUI.getCSSValue(findTestObject('Sandbox_CRM/Page_Notifications/a_Vacancies and Publications'), 'background-color')
+pageURL = WebUI.getUrl()
 
-WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyEqual(pageURL, 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=vacan%D1%81ies_and_publications', 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Sandbox_CRM/Page_Notifications/a_Applicants 6'))
 
-css_color = WebUI.getCSSValue(findTestObject('Sandbox_CRM/Page_Notifications/a_Applicants 6'), 'background-color')
+pageURL = WebUI.getUrl()
 
-WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyEqual(pageURL, 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=applicants', 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Sandbox_CRM/Page_Notifications/a_Profiles 1'))
 
-css_color = WebUI.getCSSValue(findTestObject('Sandbox_CRM/Page_Notifications/a_Profiles 1'), 'background-color')
+pageURL = WebUI.getUrl()
 
-WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyEqual(pageURL, 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=candidates', 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Sandbox_CRM/Page_Notifications/a_Processes'))
 
-css_color = WebUI.getCSSValue(findTestObject('Sandbox_CRM/Page_Notifications/a_Processes'), 'background-color')
+pageURL = WebUI.getUrl()
 
-WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyEqual(pageURL, 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=professional_search', 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Sandbox_CRM/Page_Notifications/a_Companies'))
 
-css_color = WebUI.getCSSValue(findTestObject('Sandbox_CRM/Page_Notifications/a_Companies'), 'background-color')
+pageURL = WebUI.getUrl()
 
-WebUI.verifyEqual(css_color, 'rgba(0, 0, 0, 1)', FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.mouseOver(findTestObject('Sandbox_CRM/Page_Notifications/button_Aktionen'))
-
-css_color = WebUI.getCSSValue(findTestObject('Sandbox_CRM/Page_Notifications/button_Aktionen'), 'background-color')
-
-WebUI.verifyEqual(css_color, 'rgba(215, 218, 224, 1)', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyEqual(pageURL, 'https://rocken-sandbox.cheitgroup.com/notifications?NotificationsSearch[topic]=companies', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()
 
