@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Ivan Godonuk</name>
+   <name>span_Ivan Hodoniuk</name>
    <tag></tag>
-   <elementGuidId>5a20ff18-02c7-4708-ba84-a9a36c203ed9</elementGuidId>
+   <elementGuidId>26521af0-4819-46f7-b147-ccf89c8f711f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='sandbox'])[1]/following::span[1]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>span.hidden-xs</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                Ivan Hodoniuk                            ' or . = '
+                                Ivan Hodoniuk                            ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='sandbox'])[1]/following::span[1]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>78dc02fe-4f4a-4d00-a812-d578265db3a1</webElementGuid>
+      <webElementGuid>c4c28a3e-baa8-42cb-8a7f-efc45f1017cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hidden-xs</value>
-      <webElementGuid>2068747f-4652-42ea-aa73-0be0e622814a</webElementGuid>
+      <webElementGuid>40d6d8fc-3a5f-49dc-b0c8-151f9bbfd416</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,8 +44,8 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                                Ivan Godonuk                            </value>
-      <webElementGuid>770709d4-07df-4341-b41c-80042d87d561</webElementGuid>
+                                Ivan Hodoniuk                            </value>
+      <webElementGuid>d5052d5c-f2e0-4069-af21-759edf88dbfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,40 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/header[@class=&quot;main-header fixed&quot;]/nav[@class=&quot;navbar navbar-static-top background_red&quot;]/div[@class=&quot;navbar-custom-menu&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown user user-menu&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;hidden-xs&quot;]</value>
-      <webElementGuid>3c7f740a-4d9a-48ed-ae46-21e4667df024</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>span</value>
-      <webElementGuid>0a6aae45-b2bc-464b-8e16-eef44db6595f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>hidden-xs</value>
-      <webElementGuid>d0212531-6103-48ce-bb6b-44b141eaf227</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-                                Ivan Godonuk                            </value>
-      <webElementGuid>a2a5aaef-c0f6-41fe-8f76-d376ca92b8ff</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/header[@class=&quot;main-header fixed&quot;]/nav[@class=&quot;navbar navbar-static-top background_red&quot;]/div[@class=&quot;navbar-custom-menu&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown user user-menu&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;hidden-xs&quot;]</value>
-      <webElementGuid>488272f8-f010-4bcc-9336-7971b4ffecbd</webElementGuid>
+      <webElementGuid>3a2c6a37-8d6d-4872-8961-86ee0b0233e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -88,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='sandbox'])[1]/following::span[1]</value>
-      <webElementGuid>3c2db37c-af3c-4c3e-8771-a9b1046ea2e7</webElementGuid>
+      <webElementGuid>a414d0b6-4ac6-446d-a1e3-03d402aa22fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/preceding::span[1]</value>
-      <webElementGuid>01c8b1df-9618-46b1-9667-8f554bba301f</webElementGuid>
+      <webElementGuid>6acdea89-0c58-416d-a5a5-e8ad85ee473f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,15 +77,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ausloggen'])[1]/preceding::span[1]</value>
-      <webElementGuid>b5797bb4-1adc-4b44-b370-71760be10ee3</webElementGuid>
+      <webElementGuid>dd14409d-cb9c-4f18-8880-323d85e5c1a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ivan Godonuk']/parent::*</value>
-      <webElementGuid>6b009424-5e0f-4294-9a16-716c215246a5</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Ivan Hodoniuk']/parent::*</value>
+      <webElementGuid>2bf95925-15d0-47bf-af4e-6da3bd4374b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/span</value>
-      <webElementGuid>9be7c2be-cbe4-41a2-977c-add5cf5be8d6</webElementGuid>
+      <webElementGuid>26be9d22-8f6e-4c9d-ae57-e71aa95e4dc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,8 +101,8 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '
-                                Ivan Godonuk                            ' or . = '
-                                Ivan Godonuk                            ')]</value>
-      <webElementGuid>382415e0-9997-4f73-889a-c25a70250884</webElementGuid>
+                                Ivan Hodoniuk                            ' or . = '
+                                Ivan Hodoniuk                            ')]</value>
+      <webElementGuid>82233ef9-0f05-4b20-affa-8eb69dde316a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

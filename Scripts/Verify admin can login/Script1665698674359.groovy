@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://rocken-sandbox.cheitgroup.com/site/login')
+WebUI.navigateToUrl(GlobalVariable.Url)
 
-WebUI.setText(findTestObject('Sandbox_CRM/Page_Sign In/input_Remember Me_LoginFormemail'), 'ivan.godonuk@cheitgroup.com')
+WebUI.setText(findTestObject('Sandbox_CRM/Page_Sign In/input_Remember Me_LoginFormemail'), GlobalVariable.Email)
 
-WebUI.setEncryptedText(findTestObject('Sandbox_CRM/Page_Sign In/input_Remember Me_LoginFormpassword'), 'KmAzg1R57vKcWS3ykeqMApVaT46dEUf5')
+WebUI.setText(findTestObject('Sandbox_CRM/Page_Sign In/input_Remember Me_LoginFormpassword'), GlobalVariable.Password)
 
-WebUI.click(findTestObject('Object Repository/Sandbox_CRM/Page_Sign In/button_Sign in'))
+WebUI.click(findTestObject('Prod_CRM/Page_Sign In/button_Sign in'))
 
 WebUI.verifyElementPresent(findTestObject('Sandbox_CRM/Page_ROCKEN Platforms/span_Ivan Hodoniuk'), 0)
 
